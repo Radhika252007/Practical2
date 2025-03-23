@@ -1,1 +1,5 @@
 made a new file here x = 12
+<<<<<<< HEAD
+=======
+made a new file here x = 15
+>>>>>>> branch1
